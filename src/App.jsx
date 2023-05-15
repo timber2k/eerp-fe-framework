@@ -1,9 +1,9 @@
-import { Button } from "antd";
+import IntendedLearners from "./pages/intended-learners";
 
 function App() {
   return (
     <>
-      <Button className="tw-bg-blue-500 tw-text-white">Click me</Button>
+      <IntendedLearners />
     </>
   );
 }
